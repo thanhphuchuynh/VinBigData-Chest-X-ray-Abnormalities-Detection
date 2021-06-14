@@ -1,0 +1,3 @@
+[submodule "yolov5_xray"]
+	path = yolov5_xray
+	url = https://github.com/ThanhPhucHuynh/yolov5_xray
