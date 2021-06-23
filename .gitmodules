@@ -1,3 +1,6 @@
 [submodule "yolov5_xray"]
-	path = yolov5_xray
+	path = yolov5
 	url = https://github.com/ThanhPhucHuynh/yolov5_xray
+[submodule "xray_check_reac"]
+	path = website_react_demo
+	url = https://github.com/ThanhPhucHuynh/xray_check_reac.git
